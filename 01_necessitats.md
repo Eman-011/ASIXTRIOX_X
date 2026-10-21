@@ -1,4 +1,13 @@
 # Activitat 1.2. Identificació de reptes i necessitats de l’entorn
+## Membres
+- Beatriz Navarro — Coordinació
+- Eamin Awaz — Documentació
+- Treballarem en equip— Investigació
+- Paulina Febres — Gestió tècnica i audiovisual
+
+## Descripció
+Som un equip treballant pel projecte de Sostenibilitat Aplicada al Sistema Productiu. Al llarg del nostre projecte identificarem un repte ambiental o social del nostre entorn i proposarem una solució tecnològica sostenible.
+
 ### 1. Exploreu el vostre entorn: Anàlisi de l'Institut Provençana i Sant Josep
 
 #### • El centre educatiu: Institut Provençana
