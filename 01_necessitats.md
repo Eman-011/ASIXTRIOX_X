@@ -38,4 +38,22 @@ Per resoldre aquesta situació a l'institut, es plantegen dues opcions:
 
 
 
+
+| Necesidad detectada | Tipo | Personas o colectivos afectados | Actividad económica relacionada | Evidencia |
+| :--- | :--- | :--- | :--- | :--- |
+| Garantizar un mínimo de medios tecnológicos para seguir las clases de informática (ordenadores, cables, componentes, etc.) | Económico | Alumnado con dificultades económicas para afrontar los gastos de material[cite: 1] | Educación y tecnología / Servicios formativos[cite: 1] | Estudio extraído de EsadeEcPol sobre el gasto de las familias en material escolar[cite: 1] |
+| Evitar el abandono escolar o las malas notas por no poder pagar el material necesario | Social | Estudiantes en riesgo de vulnerabilidad o exclusión educativa[cite: 1] | Servicios sociales y educativos[cite: 1] | Artículo de Alianza Solidaria sobre como la falta de herramientas tecnológicas puede afectar al abandono escolar[cite: 1] |
+| Reducción de la chatarra electrónica y aprovechamiento del valor residual de los dispositivos (E-Waste) | Ambiental | Comunidad educativa y sociedad en general[cite: 1] | Gestión de residuos y reparación de equipos informáticos[cite: 1] | Información institucional sobre la reducción de residuos electrónicos - Universidad de Sevilla[cite: 1] |
+| Fomentar la Cultura de la Reparación y la reutilización de dispositivos (cursos superiores y nuevos alumnos) | Social y Ambiental | Estudiantes de la informática[cite: 1] | Comercio electrónico y reutilización de dispositivos[cite: 1] | Economía circular: Nueva vida para tus dispositivos - ICP Tech Solutions[cite: 1, 2] |
+| Reducción de la huella ecológica y del consumo energético derivado de la fabricación de nuevos componentes informáticos | Ambiental | Entorno natural, centro educativo y sector tecnológico[cite: 2] | Industria tecnológica, fabricación de hardware y distribución[cite: 2] | Green Computing: Qué es, ejemplos y objetivos - Innovación Digital 360[cite: 2] |
+
+## Fuentes
+
+* [EsadeEcPol - Radiografía del gasto de las familias en material escolar y las becas que ayudan a compensarlo](https://www.esade.edu/ecpol/es/publicaciones/radiografia-del-gasto-de-las-familias-en-material-escolar-y-las-becas-que-ayudan-a-compensarlo/)[cite: 2]
+* [Alianza Solidaria - El abandono escolar podría ser una opción](https://alianzasolidaria.org/el-abandono-escolar-podria-ser-una-opcion/)[cite: 2]
+* [Universidad de Sevilla - Información reduce residuos electrónicos](https://smantenimiento.us.es/uma/info_ reduce_residuo_electronicos_.php)[cite: 2]
+* [ICP Tech Solutions - Economía circular: Nueva vida para tus dispositivos](https://icptechsolutions.es/economia-circular-nueva-vida-para-tus-dispositivos/)[cite: 2]
+* [Innovación Digital 360 - Green Computing: Qué es, ejemplos y objetivos](https://www.innovaciondigital360.com/industria-4-0/green-computing-que-es-ejemplos-y-objetivos/)[cite: 2]
+
+
  
