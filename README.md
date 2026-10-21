@@ -2,7 +2,7 @@
 Aquest grup va ser creat per poder plasmar les nostres idees lligades al nostre projecte de sostenibilitat. 
 ## Membres
 - Beatriz Navarro — Coordinació
-- Eamin Awaz — Documentació
+- Eamin Nawaz — Documentació
 - Treballarem en equip— Investigació
 - Paulina Febres — Gestió tècnica i audiovisual
 
