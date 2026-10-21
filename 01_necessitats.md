@@ -55,6 +55,16 @@ Per resoldre aquesta situació a l'institut, es plantegen dues opcions:
 | Reducción de la chatarra electrónica y aprovechamiento del valor residual de los dispositivos (E-Waste) | Ambiental | Comunidad educativa y sociedad en general | Gestión de residuos y reparación de equipos informáticos | Información institucional sobre la reducción de residuos electrónicos - Universidad de Sevilla|
 | Fomentar la Cultura de la Reparación y la reutilización de dispositivos (cursos superiores y nuevos alumnos) | Social y Ambiental | Estudiantes de la informática | Comercio electrónico y reutilización de dispositivos| Economía circular: Nueva vida para tus dispositivos - ICP Tech Solutions |
 | Reducción de la huella ecológica y del consumo energético derivado de la fabricación de nuevos componentes informáticos | Ambiental | Entorno natural, centro educativo y sector tecnológico | Industria tecnológica, fabricación de hardware y distribución | Green Computing: Qué es, ejemplos y objetivos - Innovación Digital 360 |
+### 4. La conclusio final de l’equip
+
+Després d'analitzar el nostre entorn hem arribat a la conclusió que estudiar això a l'**Institut Provençana** implica conviure amb una forta contradicció. D'una banda, tenim accés a uns estudis tècnics d'alt nivell i molt demandats pel mercat actual; de l'altra, ens trobem amb barreres materials i territorials importants en el nostre dia a dia.
+
+La manca de recursos econòmics per part d'alguns companys per disposar d'un ordinador propi a casa no és un problema menor. En una FP tècnica o informàtica, l'ordinador és tan bàsic com un bolígraf, i no tenir-lo genera una situació de **desigualtat real i un estrès acadèmic** que pot abocar a l'abandonament dels estudis. Creiem fermament que l'educació pública hauria de garantir que cap alumne es quedi enrere per motius econòmics, ja sigui mitjançant sistemes de préstec interns o aules autoorganitzades.
+
+A més, la nostra anàlisi ens ha fet veure clarament l'**aïllament que hi ha entre l'institut i el barri de Sant Josep**. Vivim en una mena de "bulla digital" dins d'un barri que és residencial i comercial, la qual cosa ens obliga a buscar pràctiques i futur laboral lluny d'on estudiem. 
+
+Com a equip, aquesta pràctica ens ha servit per entendre que millorar el nostre centre no només consisteix a demanar més material a les aules, sinó a **crear vincles amb l'exterior i col·laborar entre nosaltres** per trobar solucions de suport mutu o projectes de reciclatge tecnològic (economia circular) que beneficiïn tota la comunitat educativa.
+
 
 ## Fuentes
 
