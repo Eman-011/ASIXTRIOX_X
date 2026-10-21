@@ -1,4 +1,41 @@
 # Activitat 1.2. Identificació de reptes i necessitats de l’entorn
+### 1. Exploreu el vostre entorn: Anàlisi de l'Institut Provençana i Sant Josep
+
+#### • El centre educatiu: Institut Provençana
+*   **Entorn:** Hem escollit el nostre propi institut perquè considerem que, tot i tenir unes bones instal·lacions generals i una gran varietat de cicles formatius, hi ha algunes branques de Formació Professional que no compten amb els recursos suficients per cobrir les necessitats reals de l'alumnat.
+*   **Anàlisi:** Existeix una clara desigualtat en el repartiment de recursos. Hi ha cicles de caire molt tecnològic on es dona per fet que l'estudiant té un ordinador portàtil propi, quan la realitat és que no tothom es pot permetre aquesta despesa a casa. A més, els ordinadors fixos de les aules a vegades són insuficients per cobrir totes les places de matriculats. En cicles com els d'informàtica o similars, no tenir accés individual a un equip dificulta greument l'aprenentatge pràctic a classe, que és la base d'aquests estudis.
+*   
+#### • El barri: Sant Josep (L'Hospitalet)
+*   **Entorn:** És un barri tradicionalment obrer, petit i amb un teixit principalment residencial. Com a conseqüència d'aquesta estructura, als seus carrers no hi ha grans oficines, empreses tecnològiques ni tallers moderns que estiguin directament integrats amb l'ecosistema del barri.
+*   **Anàlisi:** La mancança d'empreses del sector digital o industrial a la zona limita dràsticament les oportunitats dels estudiants per trobar pràctiques (FCT) o feina tècnica a prop de casa. Hi ha una forta desconnexió entre la vida veïnal de Sant Josep i l'alta especialització de la FP que ofereix el Provençana. Això ens obliga de manera sistemàtica a haver de marxar del barri i fer desplaçaments més llargs per poder estudiar o treballar de la nostra professió.
+
+#### • Un servei o sector productiu proper: El Comerç
+*   **Entorn:** L'economia del nostre entorn més proper es basa gairebé al 100% en el comerç, on destaca el centre comercial de la zona (per l'oferta de serveis i grans superfícies) i les petites botigues de barri. Tots aquests negocis busquen de forma majoritària perfils enfocats a l'atenció al client, la restauració o la gestió de caixes.
+*   **Anàlisi:** Hi ha una distància total entre aquest model comercial centrat en el consum o el lleure diari i els estudis tècnics que s'imparteixen al Provençana. Els comerços locals de Sant Josep no demanen la preparació tècnica que nosaltres estem adquirint. Com a resultat, la inserció laboral de proximitat és gairebé impossible, cosa que agreuja el problema d'haver de buscar sortides professionals i pràctiques fora de l'entorn immediat de l'institut.
+### 1. Què és el més urgent i per què?
+
+El més urgent és **trobar una solució immediata** perquè aquests alumnes puguin aconseguir un ordinador o treballar al centre des del primer dia.
+
+*   **Per què?** En un Grau Superior, l'ordinador és l'eina de treball principal (per programar, dissenyar, fer pressupostos, redactar informes o lliurar pràctiques). Si un alumne comença el curs i no té ordinador a casa ni a l'aula, **no pot seguir les classes, es frustra i acaba abandonant els estudis**. És una urgència màxima perquè està en joc que aquesta persona pugui acabar la seva carrera i trobar una feina.
+
+---
+
+### 2. Quines afecten un nombre més gran de persones?
+Tot i que potser no tots els alumnes tenen aquest problema econòmic a casa, aquesta situació acaba **afectant tota la comunitat de l'institut**:
+
+*   **Als afectats directes:** Els alumnes que no tenen recursos pateixen l'estrès, l'ansietat i la vergonya de no poder portar el material que demana el professorat.
+*   **Al grup classe i al professorat:** Quan una part de la classe no té ordinador, el ritme de l'aula s'alenteix. Els professors han de canviar la manera de fer classe, fer fer els treballs en parelles de manera obligatòria o buscar alternatives d'última hora, fet que afecta el ritme d'aprenentatge de **tots els estudiants de l'aula**.
+*   **A les instal·lacions del centre:** S'omplen les biblioteques o les aules d'informàtica a les hores lliures, ja que molts alumnes s'han de quedar a l'institut fins tard perquè a casa no tenen la tecnologia necessària per treballar.
+
+---
+
+### Propostes de solució
+
+Per resoldre aquesta situació a l'institut, es plantegen dues opcions:
+
+1.  **Servei de préstec intern:** Demanar a l'institut que crei un servei de préstec de portàtils per endur-se a casa (com es fa amb els llibres de la biblioteca).
+2.  **Campanya d'economia circular:** Organitzar una campanya de donació i reciclatge d'ordinadors vells d'empreses del barri per posar-los a punt i donar-los als alumnes que els necessitin.
+
 
 
  
